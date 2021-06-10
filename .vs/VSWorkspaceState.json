@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MoviesApp",
+    "\\MoviesApp\\Controllers",
+    "\\MoviesApp\\Data",
+    "\\MoviesApp\\Migrations",
+    "\\MoviesApp\\Models",
+    "\\MoviesApp\\Pages",
+    "\\MoviesApp\\Properties"
+  ],
+  "SelectedNode": "\\MoviesApp\\ClientApp",
+  "PreviewInSolutionExplorer": false
+}

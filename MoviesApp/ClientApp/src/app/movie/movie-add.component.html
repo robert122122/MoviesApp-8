@@ -1,0 +1,16 @@
+<h1 id="tableLabel">Add movies</h1>
+
+Name:
+<br />
+<input [(ngModel)]="movie.name" />
+<br />
+Author
+<br />
+<input [(ngModel)]="movie.genre" />
+<br />
+
+
+<button class="btn btn-primary" (click)="saveMovie()">Save Movie</button>
+<br />
+<br />
+<button class="btn btn-primary" (click)="backToList()">Back</button>
